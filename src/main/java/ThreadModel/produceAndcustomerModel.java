@@ -21,7 +21,7 @@ public class produceAndcustomerModel {
  */
 class Godown {
     public static final int MAX_SIZE = 100;//最大库存量
-    public int curnum;    //当前库存量
+    public int curnum;    //当前库存量1
     Godown() {
     }
     Godown(int curnum) {
