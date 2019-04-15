@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cc6abf1-917a-46a9-b8ff-68a49715aeb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/student/studentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/DateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThreadModel/produceAndcustomerModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreadModel/produceAndcustomerModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bianxingjingang/EnergySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bianxingjingang/EnergySystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SuiTangYanYi/Actor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SuiTangYanYi/Actor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SuiTangYanYi/Actress.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SuiTangYanYi/Actress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SuiTangYanYi/AmyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SuiTangYanYi/AmyRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SuiTangYanYi/KeyPersonThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SuiTangYanYi/KeyPersonThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SuiTangYanYi/Stage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SuiTangYanYi/Stage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreadTongbu/Foo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreadTongbu/Foo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreadTongbu/MyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreadTongbu/MyRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bianxingjingang/EnergySystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bianxingjingang/EnergySystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bianxingjingang/EnergySystemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bianxingjingang/EnergySystemTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bianxingjingang/EnergyTransferTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bianxingjingang/EnergyTransferTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/extendThread/JishiqiThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/extendThread/JishiqiThreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/extendThread/TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/extendThread/TestThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/othertest/MyJoinThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/othertest/MyJoinThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/othertest/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/othertest/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/othertest/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/othertest/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/othertest/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/othertest/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/othertest/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/othertest/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/saleticket/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/saleticket/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/saleticket/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/saleticket/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/implRunable/DoSomething.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/implRunable/DoSomething.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/implRunable/TestRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/implRunable/TestRunnable.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bianxingjingang/EnergySystemTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bianxingjingang/EnergySystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ThreadModel/produceAndcustomerModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1260">
+              <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/student/studentTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/student/studentBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="828">
+              <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/bianxingjingang/EnergySystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThreadModel/produceAndcustomerModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/deadlock/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/deadlock/DeadLockTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThreadTongbu/blacklist.md" />
+        <option value="$PROJECT_DIR$/src/main/java/readme/ReadMeTest.md" />
+        <option value="$PROJECT_DIR$/src/main/java/splitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/DateUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/student/studentBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/student/studentTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\Project\MyTestProject\Maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="testproject Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1283" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="student" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\MyTestProject\projectTest\src\main\java\ThreadTongbu" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.studentTest">
+    <configuration name="DeadLockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deadlock.DeadLockTest" />
+      <module name="testproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnergySystemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bianxingjingang.EnergySystemTest" />
+      <module name="testproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="produceAndcustomerModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadModel.produceAndcustomerModel" />
+      <module name="testproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="splitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="splitTest" />
+      <module name="testproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="studentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="student.studentTest" />
+      <module name="testproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.studentTest" />
+        <item itemvalue="Application.splitTest" />
+        <item itemvalue="Application.DeadLockTest" />
+        <item itemvalue="Application.produceAndcustomerModel" />
+        <item itemvalue="Application.EnergySystemTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cc6abf1-917a-46a9-b8ff-68a49715aeb8" name="Default Changelist" comment="" />
+      <created>1554193326561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554193326561</updated>
+      <workItem from="1554193328105" duration="1997000" />
+      <workItem from="1554196646631" duration="2611000" />
+      <workItem from="1554258676923" duration="169000" />
+      <workItem from="1554258960151" duration="1767000" />
+      <workItem from="1554798936243" duration="1952000" />
+      <workItem from="1554859529273" duration="6113000" />
+      <workItem from="1554879628491" duration="2000" />
+    </task>
+    <task id="LOCAL-00001" summary="初次提交github">
+      <created>1554193469822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554193469822</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14611000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20499243" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24262296" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.58360654" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="GitHub Pull Requests" order="10" weight="0.35443038" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.318038" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="bottom" id="Version Control" order="17" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="18" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.jsp" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初次提交github" />
+    <option name="LAST_COMMIT_MESSAGE" value="初次提交github" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/bianxingjingang/EnergyTransferTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/deadlock/DeadLockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="56" column="38" lean-forward="true" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/readme/ReadMeTest.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="144">
+            <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThreadTongbu/blacklist.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="126">
+            <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/splitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bianxingjingang/EnergySystemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bianxingjingang/EnergySystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThreadModel/produceAndcustomerModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/student/studentBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/student/studentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

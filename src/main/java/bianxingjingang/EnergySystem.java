@@ -46,7 +46,6 @@ public class EnergySystem {
                     e.printStackTrace();
                 }
             }
-            System.out.println(Thread.currentThread().getName());
             energyBoxes[from]-=amount;
             System.out.printf("从%d转移%10.2f单位能量到%d",from,amount,to);
             energyBoxes[to]+=amount;
