@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cc6abf1-917a-46a9-b8ff-68a49715aeb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/student/studentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/DateUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThreadModel/produceAndcustomerModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreadModel/produceAndcustomerModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bianxingjingang/EnergySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bianxingjingang/EnergySystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SuiTangYanYi/Actor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SuiTangYanYi/Actor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SuiTangYanYi/Actress.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SuiTangYanYi/Actress.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SuiTangYanYi/AmyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SuiTangYanYi/AmyRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SuiTangYanYi/KeyPersonThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SuiTangYanYi/KeyPersonThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SuiTangYanYi/Stage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SuiTangYanYi/Stage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreadTongbu/Foo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreadTongbu/Foo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreadTongbu/MyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreadTongbu/MyRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bianxingjingang/EnergySystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bianxingjingang/EnergySystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bianxingjingang/EnergySystemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bianxingjingang/EnergySystemTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bianxingjingang/EnergyTransferTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bianxingjingang/EnergyTransferTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/extendThread/JishiqiThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/extendThread/JishiqiThreadTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/extendThread/TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/extendThread/TestThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/othertest/MyJoinThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/othertest/MyJoinThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/othertest/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/othertest/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/othertest/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/othertest/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/othertest/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/othertest/Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/othertest/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/othertest/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/saleticket/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/saleticket/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/saleticket/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/saleticket/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/implRunable/DoSomething.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/implRunable/DoSomething.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/implRunable/TestRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/implRunable/TestRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/student/studentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="436">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,6 +141,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,13 +195,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gitskills" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -310,6 +287,9 @@
       <workItem from="1554798936243" duration="1952000" />
       <workItem from="1554859529273" duration="6113000" />
       <workItem from="1554879628491" duration="2000" />
+      <workItem from="1555320996985" duration="2092000" />
+      <workItem from="1555375441866" duration="2167000" />
+      <workItem from="1555638451897" duration="379000" />
     </task>
     <task id="LOCAL-00001" summary="初次提交github">
       <created>1554193469822</created>
@@ -322,12 +302,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14611000" />
+    <option name="totallyTimeSpent" value="19249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20499243" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21406959" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -424,6 +405,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.txt" />
     <entry file="file://$PROJECT_DIR$/src/main/java/bianxingjingang/EnergySystemTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -454,8 +436,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/student/studentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="436">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
